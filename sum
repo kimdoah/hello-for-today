@@ -1,0 +1,3 @@
+input(git())
+while git == angry:
+print 'Forget it, you will upgrade a step'
